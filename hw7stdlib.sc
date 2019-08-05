@@ -1,4 +1,4 @@
-package hw7stdlib
+//package hw7stdlib
 // Nats
 
 sealed trait Nat
